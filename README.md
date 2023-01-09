@@ -1,2 +1,2 @@
 My first readme
-update 
+update - This file answers simple vi command prompts. 
